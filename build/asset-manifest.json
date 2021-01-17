@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.047b21cd.chunk.css",
+    "main.js": "/static/js/main.d16919ee.chunk.js",
+    "main.js.map": "/static/js/main.d16919ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.e43cedb3.chunk.js": "/static/js/2.e43cedb3.chunk.js",
+    "static/js/2.e43cedb3.chunk.js.map": "/static/js/2.e43cedb3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b616616a02cdfc1e0f65b059232784f0.js": "/precache-manifest.b616616a02cdfc1e0f65b059232784f0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.047b21cd.chunk.css.map": "/static/css/main.047b21cd.chunk.css.map",
+    "static/js/2.e43cedb3.chunk.js.LICENSE.txt": "/static/js/2.e43cedb3.chunk.js.LICENSE.txt",
+    "static/media/COVID.jpg": "/static/media/COVID.0685327b.jpg",
+    "static/media/Dev_talks.jpg": "/static/media/Dev_talks.b76d63af.jpg",
+    "static/media/api.svg": "/static/media/api.63f68ccc.svg",
+    "static/media/blinking.JPG": "/static/media/blinking.8931471b.JPG",
+    "static/media/chatapp.JPG": "/static/media/chatapp.6b5433ec.JPG",
+    "static/media/color_classification.jpg": "/static/media/color_classification.f69a82f6.jpg",
+    "static/media/facebook.svg": "/static/media/facebook.0a27bbff.svg",
+    "static/media/github.svg": "/static/media/github.cbc38ef1.svg",
+    "static/media/hardware_store.jpg": "/static/media/hardware_store.4ba98a82.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.d08bce0d.svg",
+    "static/media/mightycoder.svg": "/static/media/mightycoder.a13311a3.svg",
+    "static/media/new_year.jpg": "/static/media/new_year.82f6dd4a.jpg",
+    "static/media/pin.svg": "/static/media/pin.64c56c72.svg",
+    "static/media/portfolio.JPG": "/static/media/portfolio.45b48090.JPG",
+    "static/media/python.svg": "/static/media/python.26c488dd.svg",
+    "static/media/react.svg": "/static/media/react.2e01c74f.svg",
+    "static/media/resume.pdf": "/static/media/resume.2942bfab.pdf",
+    "static/media/tie.svg": "/static/media/tie.4a04f9f0.svg",
+    "static/media/tweetme.PNG": "/static/media/tweetme.2185e423.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.e43cedb3.chunk.js",
+    "static/css/main.047b21cd.chunk.css",
+    "static/js/main.d16919ee.chunk.js"
+  ]
+}
